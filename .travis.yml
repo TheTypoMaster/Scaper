@@ -1,0 +1,7 @@
+language: cpp
+
+# Quickest way to skip the install step
+install: make get-deps
+
+notifications:
+  email: false
