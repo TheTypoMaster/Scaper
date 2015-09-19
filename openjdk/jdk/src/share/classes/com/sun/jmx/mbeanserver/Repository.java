@@ -377,7 +377,7 @@ public class Repository {
      *                can be stored in the repository with that {@code name}.
      *                If {@link RegistrationContext#registering()
      *                context.registering()} throws an exception, the
-     *                operation is abandonned, the MBean is not added to the
+     *                operation is abandoned, the MBean is not added to the
      *                repository, and a {@link RuntimeOperationsException}
      *                is thrown.
      */
